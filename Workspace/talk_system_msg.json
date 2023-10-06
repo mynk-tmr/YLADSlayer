@@ -1,0 +1,4283 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 495,
+  "COLUMN_COUNT": 4,
+  "TEXT_COUNT": 268,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 1670,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "is_wnd_size_large": "1",
+    "msg_system": "1",
+    "input/game_state": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "is_wnd_size_large": 6,
+    "msg_system": 13,
+    "input/game_state": 2
+  },
+  "COLUMN_INDICES": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "0": {
+    "": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "test_n": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "test_l": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "lexus2_cab03_010_system_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "lexus2_cab03_010_system_02": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "lexus2_cab03_010_system_03": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "lexus2_cab03_010_system_04": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "lexus2_cab03_010_system_05": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "lexus2_cab03_010_system_06": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "lexus2_cab03_010_system_07": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "lexus2_cab03_010_system_08": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "lexus2_cab05_040_system_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "lexus2_cab06_060_system_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "lexus2_cab07_010_system_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "lexus2_cab07_060_system_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "tutorial_15": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "lexus2_adv11_0060_system_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "cab08_010_system_0010": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "cab08_030_system_0010": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "cab08_040_system_0010": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "cab09_040_system_0010": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "sinnkyuuinn_info_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "sinnkyuuinn_info_02": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "lexus2_adv04_0040_system_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "lexus2_adv07_0010_system_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "lexus2_adv12_0010_system_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "rarabai_info_uma": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "rarabai_info_win_point1": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "rarabai_info_win_point2": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "rarabai_info_win_point3": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "rarabai_info_win_point4": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "rarabai_info_win_point5": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "rarabai_info_win_point6": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "rarabai_info_win_point7": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "rarabai_info_win_point8": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "rarabai_info_win_point9": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "rarabai_info_win_point10": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "rarabai_info_win_point11": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "rarabai_info_win_point12": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "rarabai_info_lose_point1": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "rarabai_info_lose_point2": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "rarabai_info_lose_point3": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "rarabai_info_lose_point4": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "rarabai_info_lose_point5": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "rarabai_info_lose_point6": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "rarabai_info_lose_point7": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "rarabai_info_lose_point8": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "rarabai_info_lose_point9": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "rarabai_info_lose_point10": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "rarabai_info_lose_point11": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "rarabai_info_lose_point12": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "rarabai_info_lose_point13": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "rarabai_ivent_win": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "53": {
+    "reach_info_uma": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "54": {
+    "reach_info_win_1": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "reach_info_win_2": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "reach_info_win_3": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "57": {
+    "reach_info_win_4": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "reach_info_win_5": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "59": {
+    "reach_info_win_6": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "60": {
+    "reach_info_win_7": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "61": {
+    "reach_info_win_8": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "62": {
+    "reach_info_win_9": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "63": {
+    "reach_info_win_10": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "64": {
+    "reach_info_win_11": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "65": {
+    "reach_info_win_12": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "66": {
+    "reach_info_lose_1": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "67": {
+    "reach_info_lose_2": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "68": {
+    "reach_info_lose_3": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "69": {
+    "reach_info_lose_4": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "70": {
+    "reach_info_lose_5": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "71": {
+    "reach_info_lose_6": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "72": {
+    "reach_info_lose_7": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "73": {
+    "reach_info_lose_8": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "74": {
+    "reach_info_lose_9": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "75": {
+    "reach_info_lose_10": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "76": {
+    "reach_info_lose_11": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "77": {
+    "reach_info_lose_12": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "78": {
+    "reach_info_lose_13": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "79": {
+    "reach_ivent_win": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "80": {
+    "reach_ivent2_win": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "81": {
+    "lexus2_adv04_0040_system_02": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "82": {
+    "lexus2_majima_atm": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "83": {
+    "lexus2_adv07_0010_system_02": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "84": {
+    "lexus2_adv12_0010_system_02": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "85": {
+    "series_save_data": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "86": {
+    "snack_result_01_high": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "87": {
+    "snack_result_01_middle": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "88": {
+    "snack_result_01_low": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "89": {
+    "snack_result_02_high": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "90": {
+    "snack_result_02_middle": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "91": {
+    "snack_result_02_low": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "92": {
+    "tougi_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "93": {
+    "majima_ecb_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "94": {
+    "lexus2_adv11_0050_system_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "95": {
+    "cab08_060_system_0010": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "96": {
+    "special_costume_open": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "97": {
+    "patch01_costume_open": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "98": {
+    "patch02_costume_open": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "99": {
+    "patch03_costume_open": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "100": {
+    "patch04_costume_open": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "101": {
+    "judge_m01_03050_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "102": {
+    "lexus2_adv05_0010_system_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "103": {
+    "illusion_info1": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "104": {
+    "illusion_info2": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "105": {
+    "judge_m05_00500_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "106": {
+    "judge_m05_00500_02": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "107": {
+    "judge_m05_00500_03": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "108": {
+    "judge_m05_00900_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "109": {
+    "judge_m05_00900_02": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "110": {
+    "judge_m05_00900_03": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "111": {
+    "judge_frd_a13_010": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "112": {
+    "judge_frd22_frame": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "113": {
+    "judge_frd22_motor": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "114": {
+    "judge_frd22_propeller": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "115": {
+    "judge_frd22_turbo": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "116": {
+    "judge_frd22_ESC": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "117": {
+    "judge_encount_battle_aft": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "118": {
+    "rarabai_info_win_point0": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "119": {
+    "reach_info_win_0": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "120": {
+    "kindai_info_uma": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "121": {
+    "kindai_info_win_point0": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "122": {
+    "kindai_info_win_point1": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "123": {
+    "kindai_info_win_point2": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "124": {
+    "kindai_info_win_point3": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "125": {
+    "kindai_info_win_point4": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "126": {
+    "kindai_info_win_point5": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "127": {
+    "kindai_info_win_point6": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "128": {
+    "kindai_info_win_point7": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "129": {
+    "kindai_info_win_point8": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "130": {
+    "kindai_info_win_point9": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "131": {
+    "kindai_info_win_point10": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "132": {
+    "kindai_info_win_point11": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "133": {
+    "kindai_info_win_point12": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "134": {
+    "kindai_info_lose_point1": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "135": {
+    "kindai_info_lose_point2": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "136": {
+    "kindai_info_lose_point3": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "137": {
+    "kindai_info_lose_point4": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "138": {
+    "kindai_info_lose_point5": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "139": {
+    "kindai_info_lose_point6": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "140": {
+    "kindai_info_lose_point7": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "141": {
+    "kindai_info_lose_point8": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "142": {
+    "kindai_info_lose_point9": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "143": {
+    "kindai_info_lose_point10": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "144": {
+    "kindai_info_lose_point11": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "145": {
+    "kindai_info_lose_point12": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "146": {
+    "kindai_info_lose_point13": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "147": {
+    "kindai_ivent_win": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "148": {
+    "kindai_ivent2_win": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "149": {
+    "judge_sugoroku_info_01_short_standard": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "150": {
+    "judge_sugoroku_info_02_middle_standard": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "151": {
+    "judge_sugoroku_info_03_long_standard": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "152": {
+    "judge_sugoroku_info_04_short_challenge": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "153": {
+    "judge_sugoroku_info_05_middle_challenge": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "154": {
+    "judge_sugoroku_info_06_long_challenge": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "155": {
+    "judge_sugoroku_info_no_playpass": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "156": {
+    "judge_frd_park": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "157": {
+    "judge_m01_06500": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "158": {
+    "judge_g_frd_tutorial": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "159": {
+    "judge_M13_02700_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "160": {
+    "judge_M13_02700_02": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "161": {
+    "judge_M13_02700_03": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "162": {
+    "judge_frd_a48_010": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "163": {
+    "judge_smedicine_spup": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "164": {
+    "judge_smedicine_dropup": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "165": {
+    "judge_smedicine_encount_ignore": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "166": {
+    "judge_smedicine_enbu_speedup": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "167": {
+    "park_system_0010": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "168": {
+    "judge_frd_g_casino": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "169": {
+    "judge_encount_battle_aft2": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "170": {
+    "special_favor_get": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "171": {
+    "judge_battle_qr_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "172": {
+    "judge_battle_qr_02": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "173": {
+    "judge_battle_qr_03": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "174": {
+    "judge_battle_qr_04": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "175": {
+    "judge_battle_qr_05": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "176": {
+    "judge_side_case_unlock_01": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "177": {
+    "judge_side_case_unlock_02": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 177
+    }
+  },
+  "178": {
+    "judge_side_a30": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 178
+    }
+  },
+  "179": {
+    "judge_m02_01600": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 179
+    }
+  },
+  "180": {
+    "judge_frd_a40_030": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 180
+    }
+  },
+  "181": {
+    "judge_frd_after": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 181
+    }
+  },
+  "182": {
+    "judge_frd_a42_010": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 182
+    }
+  },
+  "183": {
+    "adv_sub_a18_030_system_0010": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 183
+    }
+  },
+  "184": {
+    "system_adv_sub_a18_030_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Collect 7 real Michio-kun figures hidden among the many fakes scattered throughout the plaza. Picking up a fake will cause it to explode, leaving Kasuga in a world of hurt. If his HP drops to 0, he'll be down for the count, so choose carefully.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 289
+    }
+  },
+  "185": {
+    "system_adv_sub_a70_020_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You can enjoy all sorts of classic films at this theater, but in a comfy place like this, anyone is sure to get sleepy. Sleeping through these masterpieces would be a shame, so repel the mystical REM Rams before they have a chance to attack. If Kasuga can sit through the whole film without nodding off, his personality may improve.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 286
+    }
+  },
+  "186": {
+    "advsubsb02_090_system_0020": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You handed over 10,000 yen.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 273
+    }
+  },
+  "187": {
+    "system_adv_sub_a17_070_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Taka is now available on Poundmates!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 358
+    }
+  },
+  "188": {
+    "system_adv_sub_a78_020_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You now have access to Poundmates.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 359
+    }
+  },
+  "189": {
+    "system_adv_sub_a81_020_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You need at least Lv. 5 Confidence to get the words out properly.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 360
+    }
+  },
+  "190": {
+    "system_adv_sub_a81_020_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Come back after raising your Confidence by obtaining certificates and playing minigames.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 364
+    }
+  },
+  "191": {
+    "system_adv_sub_a81_060_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Chau Ka Long is now available on Poundmates!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 365
+    }
+  },
+  "192": {
+    "system_adv_sub_a69_030_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "This facility is all about developing one's personality. Passing exams will improve different facets of Kasuga's personality. After the free trial exam, you'll have to pay the exam fee.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 366
+    }
+  },
+  "193": {
+    "system_adv_sub_a69_050_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga is now enrolled at Ounabara Vocational School.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 369
+    }
+  },
+  "194": {
+    "system_adv_sub_a69_050_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional certification exams are now available. Any passed exams can be taken as a mock exam for free, as many times as you like.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 370
+    }
+  },
+  "195": {
+    "system_adv_sub_a71_030_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Ikari can now negotiate in Management Mode.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 371
+    }
+  },
+  "196": {
+    "system_adv_ka_scout01_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Honda was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 374
+    }
+  },
+  "197": {
+    "system_adv_ka_scout02_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Sally was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 375
+    }
+  },
+  "198": {
+    "system_adv_ka_scout03_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kobayashi was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 376
+    }
+  },
+  "199": {
+    "system_adv_ka_scout04_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Monika was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 377
+    }
+  },
+  "200": {
+    "system_adv_ka_scout05_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Yamatani was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 381
+    }
+  },
+  "201": {
+    "system_adv_ka_scout06_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Ryoma was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 382
+    }
+  },
+  "202": {
+    "system_adv_ka_scout07_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Hidemi was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 383
+    }
+  },
+  "203": {
+    "system_adv_ka_scout08_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Taniguchi was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 387
+    }
+  },
+  "204": {
+    "system_adv_ka_scout09_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Chef Kawashima was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 388
+    }
+  },
+  "205": {
+    "system_adv_ka_scout10_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "HIKARU was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 389
+    }
+  },
+  "206": {
+    "system_adv_ka_scout11_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Yoon was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 392
+    }
+  },
+  "207": {
+    "system_adv_ka_scout12_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Artisan Sako was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 395
+    }
+  },
+  "208": {
+    "system_adv_ka_scout13_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kaicho was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 396
+    }
+  },
+  "209": {
+    "system_adv_ka_scout14_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Chef Hao was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 271
+    }
+  },
+  "210": {
+    "system_adv_ka_scout15_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "IT Nagai was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 394
+    }
+  },
+  "211": {
+    "system_adv_ka_scout16_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Bill Jobs was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 281
+    }
+  },
+  "212": {
+    "system_adv_ka_scout17_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Smiling Michiru was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 477
+    }
+  },
+  "213": {
+    "system_adv_ka_scout18_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Poison Mitsuo was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 478
+    }
+  },
+  "214": {
+    "system_adv_ka_scout19_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Pulse Fujinami was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 356
+    }
+  },
+  "215": {
+    "system_adv_ka_scout20_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Chan was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 355
+    }
+  },
+  "216": {
+    "system_adv_ka_scout21_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Machikosu was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 480
+    }
+  },
+  "217": {
+    "system_adv_ka_scout22_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Tsutsui was added to the recruitment list.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 491
+    }
+  },
+  "218": {
+    "system_adv_ka_toushi01_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Investment Outlet: Urchin Cultivation\nInvestment Value: 10 million\nROI: 30 million\n*Footnote: Success rate up with managers experienced in cultivation\n\nKurita Cultivation, Inc. Makoto Kurita, President and CEO",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 492
+    }
+  },
+  "219": {
+    "system_adv_ka_toushi02_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Investment Outlet: Jewelry Manufacturing and Sales\nInvestment Value: 10 million\nROI: 30 million\n\nPersephone, Inc. Sakie Kinoshita, President and CEO",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 493
+    }
+  },
+  "220": {
+    "system_adv_ka_toushi03_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Investment Outlet: Foreign Investment Consulting Firm\nInvestment Value: 10 million\nROI: 30 million\n\nSMD Japan, Inc. Manabu Fuseki, President and CEO",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 494
+    }
+  },
+  "221": {
+    "system_adv_ka_toushi04_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Investment Outlet: Takoyaki Sales\nInvestment Value: 10 million\nROI: 30 million\n\nNittako, Inc. Ko Nittako, President and CEO",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 282
+    }
+  },
+  "222": {
+    "system_adv_ka_toushi05_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Investment Outlet: Tapioca Manufacturing and Sales\nInvestment Value: 10 million\nROI: 30 million\n\nYZ, Inc. Garyu Ogata, President and CEO",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 283
+    }
+  },
+  "223": {
+    "system_adv_ka_toushi06_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Investment Outlet: Travel and Tourism\nInvestment Value: 10 million\nROI: 30 million\n\nFunFu, Inc. Mirai Saeki, President and CEO",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 291
+    }
+  },
+  "224": {
+    "adv11_0010": {
+      "is_wnd_size_large": 0,
+      "msg_system": "With the fall of the Great Wall of Muscle and Yokohama's rising crime rate, the city's villains grow even more powerful. Be on the lookout, as you may encounter formidable, never-before-seen foes.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 284
+    }
+  },
+  "225": {
+    "nakama01": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Koichi Adachi joined the party!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 285
+    }
+  },
+  "226": {
+    "nakama02": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Nanba joined the party!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 287
+    }
+  },
+  "227": {
+    "nakama03": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Saeko Mukoda joined the party!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 288
+    }
+  },
+  "228": {
+    "nakama04": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Joon-gi Han joined the party!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 290
+    }
+  },
+  "229": {
+    "nakama05": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Zhao joined the party!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 292
+    }
+  },
+  "230": {
+    "nakama06": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Koichi Adachi left the party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 293
+    }
+  },
+  "231": {
+    "nakama07": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Nanba left the party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 294
+    }
+  },
+  "232": {
+    "sadv04_0115": {
+      "is_wnd_size_large": 0,
+      "msg_system": "The karaoke bar, Survive, has become the new hangout spot for Kasuga and his party!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 295
+    }
+  },
+  "233": {
+    "sadv04_0117": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Talk to a party member after their bond gauge has filled to initiate a special substory known as a Drink Link. Seize this opportunity, as it will strengthen your ties with them.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 296
+    }
+  },
+  "234": {
+    "sadv04_0118": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You can listen to previous party chats by speaking to Iroha.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 297
+    }
+  },
+  "235": {
+    "c04_0007_01": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga's job changed to Hero.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 298
+    }
+  },
+  "236": {
+    "c04_0007_02": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Enemies throughout the city will change their appearance according to Kasuga's wild imagination.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 299
+    }
+  },
+  "237": {
+    "system_adv_sub_a80_200_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Eri joined the party!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 300
+    }
+  },
+  "238": {
+    "system_adv_sub_a80_200_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Unlike other party members, bonding with Eri requires a slightly different approach. The more Ichiban Confections grows, the deeper your bond, so flex those management muscles and show her what you can do!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 301
+    }
+  },
+  "239": {
+    "system_adv_sub_a64_040_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You can craft and enhance your weapons and gear at the Romance Workshop. Scavenging the streets for materials and investing in the workshop's amenities will allow you to craft a wider variety of gear. Be sure to take full advantage of the workshop and improve your arsenal!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 302
+    }
+  },
+  "240": {
+    "system_adv_sub_a64_050_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave a bonsai plant.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 303
+    }
+  },
+  "241": {
+    "system_adv_sub_a64_050_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave five bonsai plants.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 304
+    }
+  },
+  "242": {
+    "system_adv_sub_a64_050_003": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave ten bonsai plants.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 305
+    }
+  },
+  "243": {
+    "system_c04_0007_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga's job changed to Hero.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 306
+    }
+  },
+  "244": {
+    "system_c04_0007_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Enemies throughout the city will change their appearance according to Kasuga's wild imagination.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 307
+    }
+  },
+  "245": {
+    "system_sadv04_0115_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "The karaoke bar, Survive, has become the new hangout spot for Kasuga and his party!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 308
+    }
+  },
+  "246": {
+    "system_sadv04_0117_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Talk to a party member after their bond gauge has filled to initiate a special substory known as a Drink Link. Seize this opportunity, as it will strengthen your ties with them.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 309
+    }
+  },
+  "247": {
+    "system_sadv04_0118_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You can listen to previous party chats by speaking to Iroha.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 310
+    }
+  },
+  "248": {
+    "system_sadv04_0118_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave a Bouquet of Roses.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 311
+    }
+  },
+  "249": {
+    "system_sadv04_0118_003": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave five Bouquets of Roses.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 312
+    }
+  },
+  "250": {
+    "system_c05_0067_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave a Bouquet of Pansies.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 313
+    }
+  },
+  "251": {
+    "system_c05_0067_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave five Bouquets of Pansies.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 314
+    }
+  },
+  "252": {
+    "system_c05_0067_003": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave ten Bouquets of Pansies.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 315
+    }
+  },
+  "253": {
+    "system_y_playspot_shikaku_help_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga learned Hyper Focus!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 316
+    }
+  },
+  "254": {
+    "system_y_playspot_shikaku_help_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "During an exam, press <symbol=button_sankaku> to activate Hyper Focus and extend your exam time by 30 seconds. This skill can only be activated once per exam.",
+      "input/game_state": 33,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 317
+    }
+  },
+  "255": {
+    "system_y_playspot_shikaku_help_003": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga obtained The Divine Pencil!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 318
+    }
+  },
+  "256": {
+    "system_y_playspot_shikaku_help_004": {
+      "is_wnd_size_large": 0,
+      "msg_system": "During an exam, press <symbol=button_shikaku> to use The Divine Pencil and eliminate 2 wrong choices of the 4 available ones. This skill can only be activated once per exam.",
+      "input/game_state": 33,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 319
+    }
+  },
+  "257": {
+    "system_y_playspot_shikaku_help_005": {
+      "is_wnd_size_large": 0,
+      "msg_system": "When selecting an exam, you will be able to see which certificate improves which aspect of Kasuga's Personality.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 320
+    }
+  },
+  "258": {
+    "system_y_playspot_shikaku_shop_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave a Bouquet of Lilies.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 321
+    }
+  },
+  "259": {
+    "system_y_playspot_shikaku_shop_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave five Bouquets of Lilies.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 322
+    }
+  },
+  "260": {
+    "system_y_playspot_shikaku_shop_003": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave ten Bouquets of Lilies.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 323
+    }
+  },
+  "261": {
+    "system_adv_dragonkart01_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Pegasus Cup Grand Prix unlocked.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 324
+    }
+  },
+  "262": {
+    "system_adv_dragonkart02_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Phoenix Cup Grand Prix unlocked.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 325
+    }
+  },
+  "263": {
+    "system_adv_dragonkart03_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Dragon Cup Grand Prix unlocked.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 326
+    }
+  },
+  "264": {
+    "system_adv_dragonkart04_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "The Ignition Shadow kart is now available!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 327
+    }
+  },
+  "265": {
+    "system_adv_dragonkart05_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "The Rapid Phantom kart is now available!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 328
+    }
+  },
+  "266": {
+    "system_adv_dragonkart06_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "The Rumble Crasher kart is now available!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 346
+    }
+  },
+  "267": {
+    "system_adv_dragonkart07_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "The Rising Dragon kart is now available!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 329
+    }
+  },
+  "268": {
+    "system_sadv04_0118_004": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You gave ten Bouquets of Roses.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 330
+    }
+  },
+  "269": {
+    "system_adv_sub_a87_020_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga got a massive defense boost!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 331
+    }
+  },
+  "270": {
+    "system_adv_tgs_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Entering Otohime Land will begin a scene which will conclude the demo. Please keep this in mind if you wish to explore more of the city, play minigames, or spend time battling enemies.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 332
+    }
+  },
+  "271": {
+    "system_btl04_0005_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Enemies will look different in battle, thanks to Kasuga's vivid imagination.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 333
+    }
+  },
+  "272": {
+    "mj_citron01": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Ranking]　[Beginner/Intermediate]　[Advanced]\n　1st　　　　+10,000 pts.　　　　+20,000 pts.\n　2nd　　　　+5,000 pts.　　　　+10,000 pts.\n　3rd　　　　-5,000 pts.　　　　-10,000 pts.\n　4th　　　　-10,000 pts.　　　　-20,000 pts.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 334
+    }
+  },
+  "273": {
+    "mj_citron02": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 335
+    }
+  },
+  "274": {
+    "mj_kacyo01": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Ranking]　[Intermediate]　[Advanced]\n　1st　　+30,000 pts.　　　+30,000 pts.\n　2nd　　+10,000 pts.　　　+10,000 pts.\n　3rd　　-10,000 pts.　　　-10,000 pts.\n　4th　　-30,000 pts.　　　-30,000 pts.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 336
+    }
+  },
+  "275": {
+    "mj_kacyo02": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Ranking]　　[Royal]\n　　1st　　　+30,000 pts.\n　　2nd　　+20,000 pts.\n　　3rd　　-20,000 pts.\n　　4th　　-30,000 pts.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 337
+    }
+  },
+  "276": {
+    "mj_rara01": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Ranking]　　[Beginner/Intermediate]\n1st　　　　　+10,000 pts.\n2nd　　　　　+5,000 pts.　\n3rd　　　　　-5,000 pts.　\n4th　　　　　-10,000 pts.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 338
+    }
+  },
+  "277": {
+    "mj_reach01": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Ranking]　[Intermediate]　[Advanced]\n　1st　　　+10,000 pts.　+20,000 pts.\n　2nd　　　+5,000 pts.　　+10,000 pts.\n　3rd　　　-5,000 pts.　　-10,000 pts.\n　4th　　　-10,000 pts.　-20,000 pts.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 339
+    }
+  },
+  "278": {
+    "shogi_rule": {
+      "is_wnd_size_large": 1,
+      "msg_system": "Three ways to play Shogi.\n[Ranked] Played following the basic rules. The difficulty will increase with each defeated opponent. Once you've defeated all opponents in the Kyu rank, you may then face off against those in the Dan rank.\n[Challenge] Played on a special type of board. \n[Puzzle] Play against opponents on a special type of board and call checkmate within a specified number of moves.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 340
+    }
+  },
+  "279": {
+    "system_adv_tgs_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "You can now change jobs. Speak to Ririka whenever you wish to do so.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 341
+    }
+  },
+  "280": {
+    "nakama08": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Eri Kamataki joined the party!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 342
+    }
+  },
+  "281": {
+    "system_btl_recover00": {
+      "is_wnd_size_large": 0,
+      "msg_system": "HP and MP fully recovered!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 343
+    }
+  },
+  "282": {
+    "system_dgn_adv12_s100_010_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nNo restrictions",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 344
+    }
+  },
+  "283": {
+    "system_dgn_adv12_s100_010_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin within 5 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 345
+    }
+  },
+  "284": {
+    "system_dgn_adv12_s100_015_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 2nd floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 261
+    }
+  },
+  "285": {
+    "system_dgn_adv12_s100_020_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin without using any skills or using help from others.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 262
+    }
+  },
+  "286": {
+    "system_dgn_adv12_s100_020_002": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 263
+    }
+  },
+  "287": {
+    "system_dgn_adv12_s100_025_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 3rd floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 264
+    }
+  },
+  "288": {
+    "system_dgn_adv12_s100_030_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nDo not switch members during battle.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 265
+    }
+  },
+  "289": {
+    "system_dgn_adv12_s100_030_002": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 266
+    }
+  },
+  "290": {
+    "system_dgn_adv12_s100_035_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 4th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 267
+    }
+  },
+  "291": {
+    "system_dgn_adv12_s100_900_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Going back will mean starting over from the 1st floor or the checkpoint.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 426
+    }
+  },
+  "292": {
+    "system_dgn_adv12_s100_040_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin using only Kasuga's attacks or skills.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 357
+    }
+  },
+  "293": {
+    "system_dgn_adv12_s100_045_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 5th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 427
+    }
+  },
+  "294": {
+    "system_dgn_adv12_s100_050_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nNo switching members during battle.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 428
+    }
+  },
+  "295": {
+    "system_dgn_adv12_s100_050_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin within 10 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 429
+    }
+  },
+  "296": {
+    "system_dgn_adv12_s100_055_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 6th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 430
+    }
+  },
+  "297": {
+    "system_dgn_adv12_s100_060_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nAttacks from allies and enemies will always land a critical hit.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 431
+    }
+  },
+  "298": {
+    "system_dgn_adv12_s100_060_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin without using any Recovery skills.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 432
+    }
+  },
+  "299": {
+    "system_dgn_adv12_s100_065_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 7th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 433
+    }
+  },
+  "300": {
+    "system_dgn_adv12_s100_070_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nAllies and enemies will be lighter during battle.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 361
+    }
+  },
+  "301": {
+    "system_dgn_adv12_s100_075_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 8th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 362
+    }
+  },
+  "302": {
+    "system_dgn_adv12_s100_080_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin using only Adachi's attacks or skills.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 363
+    }
+  },
+  "303": {
+    "system_dgn_adv12_s100_085_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 9th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 434
+    }
+  },
+  "304": {
+    "system_dgn_adv12_s100_090_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nPoison will slowly decrease your health.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 435
+    }
+  },
+  "305": {
+    "system_dgn_adv12_s100_090_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin within 15 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 436
+    }
+  },
+  "306": {
+    "system_dgn_adv12_s100_095_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 10th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 437
+    }
+  },
+  "307": {
+    "system_dgn_adv12_s100_100_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin within 20 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 438
+    }
+  },
+  "308": {
+    "system_dgn_adv12_s100_105_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 11th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 439
+    }
+  },
+  "309": {
+    "system_dgn_adv12_s100_110_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin using only Nanba's attacks or skills.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 440
+    }
+  },
+  "310": {
+    "system_dgn_adv12_s100_115_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 12th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 441
+    }
+  },
+  "311": {
+    "system_dgn_adv12_s100_120_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin using only Saeko's attacks or skills.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 442
+    }
+  },
+  "312": {
+    "system_dgn_adv12_s100_125_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 13th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 367
+    }
+  },
+  "313": {
+    "system_dgn_adv12_s100_130_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nSkills may be used without limit.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 368
+    }
+  },
+  "314": {
+    "system_dgn_adv12_s100_130_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin without reviving fallen allies.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 393
+    }
+  },
+  "315": {
+    "system_dgn_adv12_s100_135_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 14th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 443
+    }
+  },
+  "316": {
+    "system_dgn_adv12_s100_140_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nPoundmates may be used without limit.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 444
+    }
+  },
+  "317": {
+    "system_dgn_adv12_s100_140_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin without have any allies knocked out.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 445
+    }
+  },
+  "318": {
+    "system_dgn_adv12_s100_145_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 15th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 446
+    }
+  },
+  "319": {
+    "system_dgn_adv12_s100_150_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin within 25 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 447
+    }
+  },
+  "320": {
+    "system_dgn_adv12_s100_155_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 16th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 448
+    }
+  },
+  "321": {
+    "system_dgn_adv12_s100_160_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin within 30 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 449
+    }
+  },
+  "322": {
+    "system_dgn_adv12_s100_165_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 17th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 450
+    }
+  },
+  "323": {
+    "system_dgn_adv12_s100_175_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 18th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 372
+    }
+  },
+  "324": {
+    "system_dgn_adv12_s100_180_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin within 35 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 373
+    }
+  },
+  "325": {
+    "system_dgn_adv12_s100_185_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 19th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 451
+    }
+  },
+  "326": {
+    "system_dgn_adv12_s100_190_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nFallen allies cannot be revived.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 452
+    }
+  },
+  "327": {
+    "system_dgn_adv12_s100_190_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin using only Joon-gi Han's attacks or skills.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 453
+    }
+  },
+  "328": {
+    "system_dgn_adv12_s100_195_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 20th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 454
+    }
+  },
+  "329": {
+    "system_dgn_adv12_s100_205_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 21st floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 455
+    }
+  },
+  "330": {
+    "system_dgn_adv12_s100_210_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nSusceptibility to fire element every 5 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 456
+    }
+  },
+  "331": {
+    "system_dgn_adv12_s100_215_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 22nd floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 457
+    }
+  },
+  "332": {
+    "system_dgn_adv12_s100_220_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nSusceptibility to ice element every 5 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 458
+    }
+  },
+  "333": {
+    "system_dgn_adv12_s100_220_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin within 45 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 378
+    }
+  },
+  "334": {
+    "system_dgn_adv12_s100_225_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 23rd floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 379
+    }
+  },
+  "335": {
+    "system_dgn_adv12_s100_230_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nSusceptibility to electric element every 5 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 380
+    }
+  },
+  "336": {
+    "system_dgn_adv12_s100_230_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin within 50 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 459
+    }
+  },
+  "337": {
+    "system_dgn_adv12_s100_235_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 24th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 460
+    }
+  },
+  "338": {
+    "system_dgn_adv12_s100_240_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Rules\n\nBleed status occurs every 5 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 461
+    }
+  },
+  "339": {
+    "system_dgn_adv12_s100_240_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin using only Zhao's attacks or skills.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 462
+    }
+  },
+  "340": {
+    "system_dgn_adv12_s100_245_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 25th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 463
+    }
+  },
+  "341": {
+    "system_dgn_adv12_s100_255_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 26th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 464
+    }
+  },
+  "342": {
+    "system_dgn_adv12_s100_265_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 27th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 465
+    }
+  },
+  "343": {
+    "system_dgn_adv12_s100_275_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 28th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 466
+    }
+  },
+  "344": {
+    "system_dgn_adv12_s100_285_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 29th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 467
+    }
+  },
+  "345": {
+    "system_dgn_adv12_s100_295_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Proceed to the 30th floor?",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 384
+    }
+  },
+  "346": {
+    "system_dgn_adv12_s100_200_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Additional Reward Condition\n\nWin within 40 turns.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 385
+    }
+  },
+  "347": {
+    "nakama09": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Saeko Mukoda left the party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 386
+    }
+  },
+  "348": {
+    "nakama10": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Saeko Mukoda rejoined the party!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 468
+    }
+  },
+  "349": {
+    "nakama11": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Koichi Adachi rejoined the party!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 469
+    }
+  },
+  "350": {
+    "nakama12": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Nanba rejoined the party with a new skill - Essence of Pyro Prison !",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 470
+    }
+  },
+  "351": {
+    "job_change_01": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga's job changed from Arakawa Loyalist to Deadbeat.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 471
+    }
+  },
+  "352": {
+    "job_change_02": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga's job changed from Deadbeat to Freelancer.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 472
+    }
+  },
+  "353": {
+    "system_adv_sub_a16_030_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "The Sujidex app was installed on Kasuga's smartphone.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 473
+    }
+  },
+  "354": {
+    "skill01": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga can now use the skill Hero's Vigor.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 474
+    }
+  },
+  "355": {
+    "system_dgn_adv99_y099_010_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Final Millennium Tower\n\nYou can now challenge the game's most difficult dungeon. Once you've boarded the elevator, the retry option will be disabled until you defeat the tower's manager waiting for you at the top.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 475
+    }
+  },
+  "356": {
+    "system_adv_demo_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "This content is not available in the trial version. The full release awaits!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 390
+    }
+  },
+  "357": {
+    "nanba_kizuna_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Nanba grows stronger.\nNanba will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 391
+    }
+  },
+  "358": {
+    "nanba_kizuna_002": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 397
+    }
+  },
+  "359": {
+    "nanba_kizuna_003": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 398
+    }
+  },
+  "360": {
+    "nanba_kizuna_004": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 425
+    }
+  },
+  "361": {
+    "nanba_kizuna_005a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Nanba's bond is at its strongest.\nNanba will now gain even more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 490
+    }
+  },
+  "362": {
+    "nanba_kizuna_005b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Nanba's bond is at its strongest.\nNanba will now gain even more experience when he is not in the active party.\nNanba can now change to the Foreman job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 272
+    }
+  },
+  "363": {
+    "nanba_kizuna_005c": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Nanba's bond is at its strongest.\nNanba will now gain even more experience when he is not in the active party.\nNanba can now change to the Devil Rocker job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 274
+    }
+  },
+  "364": {
+    "adachi_kizuna_002": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 275
+    }
+  },
+  "365": {
+    "adachi_kizuna_003": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 276
+    }
+  },
+  "366": {
+    "adachi_kizuna_004": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 277
+    }
+  },
+  "367": {
+    "adachi_kizuna_005a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Adachi's bond is at its strongest.\nAdachi will now gain even more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 224
+    }
+  },
+  "368": {
+    "adachi_kizuna_005b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Adachi can now change to the Devil Rocker job.\nAdachi can now use the skill Tag Team: Nelson Strike.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 232
+    }
+  },
+  "369": {
+    "saeko_kizuna_002": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 233
+    }
+  },
+  "370": {
+    "saeko_kizuna_003": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 234
+    }
+  },
+  "371": {
+    "saeko_kizuna_004": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 225
+    }
+  },
+  "372": {
+    "saeko_kizuna_005a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Saeko can now use the skill Tag Team: Bombardier Bash.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 226
+    }
+  },
+  "373": {
+    "saeko_kizuna_005b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Saeko can now use the skill Tag Team: Bombardier Bash.\nSaeko can now change to the Matriarch job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 227
+    }
+  },
+  "374": {
+    "saeko_kizuna_005c": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 228
+    }
+  },
+  "375": {
+    "han_kizuna_002": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 229
+    }
+  },
+  "376": {
+    "han_kizuna_003": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 230
+    }
+  },
+  "377": {
+    "han_kizuna_004": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 231
+    }
+  },
+  "378": {
+    "han_kizuna_005a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Joon-gi Han's bond is at its strongest.\nJoon-gi Han will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 235
+    }
+  },
+  "379": {
+    "han_kizuna_005b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Joon-gi Han's bond is at its strongest.\nJoon-gi Han will now gain more experience when he is not in the active party.\nJoon-gi Han can now change to the Devil Rocker job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 236
+    }
+  },
+  "380": {
+    "han_kizuna_005c": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Joon-gi Han's bond is at its strongest.\nJoon-gi Han will now gain more experience when he is not in the active party.\nJoon-gi Han can now change to the Fortuneteller job.\n",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 280
+    }
+  },
+  "381": {
+    "chou_kizuna_002": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 347
+    }
+  },
+  "382": {
+    "chou_kizuna_003": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 348
+    }
+  },
+  "383": {
+    "chou_kizuna_004": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 349
+    }
+  },
+  "384": {
+    "chou_kizuna_005a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Zhao's bond is at its strongest.\nZhao will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 350
+    }
+  },
+  "385": {
+    "chou_kizuna_005b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Zhao's bond is at its strongest.\nZhao will now gain more experience when he is not in the active party.\nZhao can now change to the Devil Rocker job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 351
+    }
+  },
+  "386": {
+    "chou_kizuna_005c": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Zhao's bond is at its strongest.\nZhao will now gain more experience when he is not in the active party.\nZhao can now change to the Enforcer job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 352
+    }
+  },
+  "387": {
+    "eri_kizuna_002": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 354
+    }
+  },
+  "388": {
+    "eri_kizuna_003": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 479
+    }
+  },
+  "389": {
+    "eri_kizuna_004": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 489
+    }
+  },
+  "390": {
+    "eri_kizuna_005a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Eri's bond is at its strongest.\nEri will now gain more experience when she is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 243
+    }
+  },
+  "391": {
+    "eri_kizuna_005b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Eri's bond is at its strongest.\nEri will now gain more experience when she is not in the active party.\nEri can now change to the Matriarch job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 244
+    }
+  },
+  "392": {
+    "eri_kizuna_005c": {
+      "is_wnd_size_large": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 245
+    }
+  },
+  "393": {
+    "adachi_kizuna_005c": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Adachi's bond is at its strongest.\nAdachi will now gain more experience when he is not in the active party.\nAdachi can now change to the Fortuneteller job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 246
+    }
+  },
+  "394": {
+    "system_btl04_0010_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Auto-Battle Mode can now be selected. Press <symbol=button_l2> to turn Auto-Battle Mode ON/OFF. Hold down <symbol=button_l2> and use <platform_type_not=pc>the ${platform.term.dpad}</platform_type_not><platform_type=pc><symbol=button_up><symbol=button_down><symbol=button_left><symbol=button_right></platform_type> to make a selection.",
+      "input/game_state": 23,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 247
+    }
+  },
+  "395": {
+    "system_activesearch_sub_a01": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Active Search Mode will place you in first-person view, where you'll be able to move using <symbol=button_l_stick> and look around using <symbol=button_r_stick>. Put on those detective specs and find Nancy-chan!",
+      "input/game_state": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 248
+    }
+  },
+  "396": {
+    "system_activesearch_sub_a18": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Active Search Mode will place you in first-person view, where you'll be able to move using <symbol=button_l_stick> and look around using <symbol=button_r_stick>. Put on those detective specs and find the real Michio-kun!",
+      "input/game_state": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 249
+    }
+  },
+  "397": {
+    "job_kizuna_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Devil Rocker job unlocked.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 268
+    }
+  },
+  "398": {
+    "job_kizuna_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Matriarch job unlocked.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 250
+    }
+  },
+  "399": {
+    "system_ka_tutorial_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Go to Properties to check the details of your properties. Select Properties.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 251
+    }
+  },
+  "400": {
+    "system_ka_tutorial_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Go to Assign to change employees assigned to your properties. Select Assign, then Ichiban Confections.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 252
+    }
+  },
+  "401": {
+    "system_ka_tutorial_003": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Each property has ability requirements that affect profit. If your products, services, and reputation are not up to par, you may face difficulties in your business like diminishing sales and unforeseen issues.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 399
+    }
+  },
+  "402": {
+    "system_ka_tutorial_004": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Make sure to stay above the products, services, and reputation requirements by switching around your assigned employees.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 400
+    }
+  },
+  "403": {
+    "system_ka_tutorial_005": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Go to Employees to check the details of your employees. Select Employees, then Employee List.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 401
+    }
+  },
+  "404": {
+    "system_ka_tutorial_006": {
+      "is_wnd_size_large": 0,
+      "msg_system": "The wages of employees who are not assigned to a property are paid in the form of Surplus Labor Costs, which are deducted from sales. Try to avoid risking your business by laying off these employees when conditions are not satisfactory.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 402
+    }
+  },
+  "405": {
+    "system_ka_learn_skill_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga can now use the skill Intimidation.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 403
+    }
+  },
+  "406": {
+    "system_ka_learn_skill_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga can now use the skill Bossman Bribe.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 404
+    }
+  },
+  "407": {
+    "system_ka_learn_skill_003": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga can now use the skill Egg of Wonders.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 405
+    }
+  },
+  "408": {
+    "system_ka_learn_skill_004": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga can now use the skill Hero's Embrace.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 406
+    }
+  },
+  "409": {
+    "system_ka_learn_skill_005": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga can now use the skill Fat Stack Slap.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 407
+    }
+  },
+  "410": {
+    "nicks_mission_001a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Nick Ogata's Condition]\n\nReach top 100 Share Price Ranking within 5 business periods!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 408
+    }
+  },
+  "411": {
+    "nicks_mission_001b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Nick Ogata's Condition]\n\nReach top 100 Share Price Ranking within 4 business periods!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 409
+    }
+  },
+  "412": {
+    "nicks_mission_001c": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Nick Ogata's Condition]\n\nReach top 100 Share Price Ranking within 3 business periods!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 410
+    }
+  },
+  "413": {
+    "nicks_mission_002a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Nick Ogata's Condition]\n\nReach top 50 Share Price Ranking within 7 business periods!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 411
+    }
+  },
+  "414": {
+    "nicks_mission_002b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Nick Ogata's Condition]\n\nReach top 50 Share Price Ranking within 6 business periods!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 412
+    }
+  },
+  "415": {
+    "nicks_mission_002c": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Nick Ogata's Condition]\n\nReach top 50 Share Price Ranking within 5 business periods!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 413
+    }
+  },
+  "416": {
+    "nicks_mission_003a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Nick Ogata's Condition]\n\nReach top 10 Share Price Ranking within 8 business periods!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 414
+    }
+  },
+  "417": {
+    "nicks_mission_003b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Nick Ogata's Condition]\n\nReach top 10 Share Price Ranking within 7 business periods!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 415
+    }
+  },
+  "418": {
+    "nicks_mission_003c": {
+      "is_wnd_size_large": 0,
+      "msg_system": "[Nick Ogata's Condition]\n\nReach top 10 Share Price Ranking within 6 business periods!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 416
+    }
+  },
+  "419": {
+    "nicks_support_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Received 5 million yen in support from Nick Ogata.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 417
+    }
+  },
+  "420": {
+    "nicks_support_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Received 50 million yen in support from Nick Ogata.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 418
+    }
+  },
+  "421": {
+    "nicks_support_003": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Received 100 million yen in support from Nick Ogata.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 419
+    }
+  },
+  "422": {
+    "company_information_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Property management limit increased from 2 to 4.\nEmployee count limit increased from 10 to 25.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 420
+    }
+  },
+  "423": {
+    "company_information_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Company name changed to Ichiban Holdings.\nProperty management limit increased from 4 to 5.\nEmployee limit increased from 25 to 40.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 421
+    }
+  },
+  "424": {
+    "company_information_003": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Property management limit increased from 5 to 6.\nEmployee limit increased from 40 to 50.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 422
+    }
+  },
+  "425": {
+    "eri_kizuna_000": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Progress through Management to deepen your bond with Eri.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 423
+    }
+  },
+  "426": {
+    "nanba_kizuna_000": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga started feeling the bond between him and Nanba.\nKasuga can now use the skill Tag Team: Essence of Mayhem.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 424
+    }
+  },
+  "427": {
+    "nanba_kizuna_002a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Nanba grows stronger.\nNanba will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 476
+    }
+  },
+  "428": {
+    "nanba_kizuna_002b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Nanba grows stronger.\nNanba will now gain more experience when he is not in the active party.\nNanba can now change to the Chef job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 481
+    }
+  },
+  "429": {
+    "nanba_kizuna_003a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Nanba grows stronger.\nNanba will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 482
+    }
+  },
+  "430": {
+    "nanba_kizuna_003b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Nanba can now change to the Fortuneteller job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 483
+    }
+  },
+  "431": {
+    "nanba_kizuna_004a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Nanba grows stronger.\nNanba will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 484
+    }
+  },
+  "432": {
+    "nanba_kizuna_004b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Nanba grows stronger.\nNanba will now gain more experience when he is not in the active party.\nNanba can now change to the Host job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 485
+    }
+  },
+  "433": {
+    "nanba_kizuna_004c": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Nanba grows stronger.\nNanba will now gain more experience when he is not in the active party.\nNanba can now change to the Host job.\nNanba can now change to the Enforcer job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 486
+    }
+  },
+  "434": {
+    "nanba_kizuna_005d": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Nanba can now change to Foreman job and Devil Rocker jobs.\nNanba can now use the skill Tag Team: Heat Buster.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 487
+    }
+  },
+  "435": {
+    "adachi_kizuna_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Adachi grows stronger.\nAdachi will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 488
+    }
+  },
+  "436": {
+    "adachi_kizuna_002a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Adachi grows stronger.\nAdachi will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 196
+    }
+  },
+  "437": {
+    "adachi_kizuna_002b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Adachi grows stronger.\nAdachi will now gain more experience when he is not in the active party.\nAdachi can now change to the Breaker job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 197
+    }
+  },
+  "438": {
+    "adachi_kizuna_003a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Adachi grows stronger.\nAdachi will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 198
+    }
+  },
+  "439": {
+    "adachi_kizuna_003b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Adachi can now change to the Musician job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 199
+    }
+  },
+  "440": {
+    "adachi_kizuna_004a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Adachi grows stronger.\nAdachi will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 200
+    }
+  },
+  "441": {
+    "adachi_kizuna_004b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Adachi grows stronger.\nAdachi will now gain more experience when he is not in the active party.\nAdachi can now change to the Host job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 201
+    }
+  },
+  "442": {
+    "adachi_kizuna_004c": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Adachi grows stronger.\nAdachi will now gain more experience when he is not in the active party.\nAdachi can now change to the Host job.\nAdachi can now change to the Chef job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 202
+    }
+  },
+  "443": {
+    "adachi_kizuna_005d": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Adachi can now change to the Fortuneteller and Devil Rocker jobs.\nAdachi can now use the skill Tag Team: Nelson Strike.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 203
+    }
+  },
+  "444": {
+    "saeko_kizuna_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Saeko grows stronger.\nSaeko will now gain more experience when she is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 204
+    }
+  },
+  "445": {
+    "saeko_kizuna_002a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Saeko grows stronger.\nSaeko will now gain more experience when she is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 205
+    }
+  },
+  "446": {
+    "saeko_kizuna_002b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Saeko grows stronger.\nSaeko will now gain more experience when she is not in the active party.\nSaeko can now change to the Night Queen job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 206
+    }
+  },
+  "447": {
+    "saeko_kizuna_003a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Saeko grows stronger.\nSaeko will now gain more experience when she is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 207
+    }
+  },
+  "448": {
+    "saeko_kizuna_003b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Saeko grows stronger.\nSaeko will now gain more experience when she is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 208
+    }
+  },
+  "449": {
+    "saeko_kizuna_004a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Saeko grows stronger.\nSaeko will now gain more experience when she is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 209
+    }
+  },
+  "450": {
+    "saeko_kizuna_004b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Saeko grows stronger.\nSaeko will now gain more experience when she is not in the active party.\nSaeko can now change to the Dealer job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 210
+    }
+  },
+  "451": {
+    "han_kizuna_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Joon-gi Han grows stronger.\nJoon-gi Han will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 211
+    }
+  },
+  "452": {
+    "han_kizuna_002a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Joon-gi Han grows stronger.\nJoon-gi Han will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 212
+    }
+  },
+  "453": {
+    "han_kizuna_002b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Joon-gi Han grows stronger.\nJoon-gi Han will now gain more experience when he is not in the active party.\nJoon-gi Han can now change to the Enforcer job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 213
+    }
+  },
+  "454": {
+    "han_kizuna_003a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Joon-gi Han can now change to the Foreman job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 214
+    }
+  },
+  "455": {
+    "han_kizuna_003b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Joon-gi Han can now change to the Foreman job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 215
+    }
+  },
+  "456": {
+    "han_kizuna_004a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Joon-gi Han grows stronger.\nJoon-gi Han will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 216
+    }
+  },
+  "457": {
+    "han_kizuna_004b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Joon-gi Han grows stronger.\nJoon-gi Han will now gain more experience when he is not in the active party.\nJoon-gi Han can now change to the Musician job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 217
+    }
+  },
+  "458": {
+    "han_kizuna_004c": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Joon-gi Han grows stronger.\nJoon-gi Han will now gain more experience when he is not in the active party.\nJoon-gi Han can now change to the Musician job.\nJoon-gi Han can now change to the Chef job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 218
+    }
+  },
+  "459": {
+    "han_kizuna_005d": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Joon-gi Han's bond is at its strongest.\nJoon-gi Han can now use the skill Tag Team : Terrorizing Trample.\nJoon-gi Han can now change to Fortuneteller and Devil Rocker jobs.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 219
+    }
+  },
+  "460": {
+    "chou_kizuna_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Zhao grows stronger.\nZhao will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 220
+    }
+  },
+  "461": {
+    "chou_kizuna_002a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Zhao grows stronger.\nZhao will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 221
+    }
+  },
+  "462": {
+    "chou_kizuna_002b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Zhao grows stronger.\nZhao will now gain more experience when he is not in the active party.\nZhao can now change to the Breaker job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 222
+    }
+  },
+  "463": {
+    "chou_kizuna_003a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Bodyguard job unlocked for Zhao.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 223
+    }
+  },
+  "464": {
+    "chou_kizuna_003b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Zhao can now change to the Bodyguard job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 278
+    }
+  },
+  "465": {
+    "chou_kizuna_004a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Zhao grows stronger.\nZhao will now gain more experience when he is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 186
+    }
+  },
+  "466": {
+    "chou_kizuna_004b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Zhao grows stronger.\nZhao will now gain more experience when he is not in the active party.\nZhao can now change to the Fortuneteller job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 353
+    }
+  },
+  "467": {
+    "chou_kizuna_004c": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Zhao grows stronger.\nZhao will now gain more experience when he is not in the active party.\nZhao can now change to the Fortuneteller job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 187
+    }
+  },
+  "468": {
+    "chou_kizuna_005d": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga and Zhao's bond is at its strongest.\nZhao can now change to Foreman, Enforcer and Devil Rocker jobs.\nZhao can now use the skill Tag Team: Beast Brothers.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 184
+    }
+  },
+  "469": {
+    "eri_kizuna_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Eri grows stronger.\nEri will now gain more experience when she is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 239
+    }
+  },
+  "470": {
+    "eri_kizuna_002a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Eri grows stronger.\nEri will now gain more experience when she is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 240
+    }
+  },
+  "471": {
+    "eri_kizuna_002b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Eri grows stronger.\nEri will now gain more experience when she is not in the active party.\nEri can now change to the Hostess job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 241
+    }
+  },
+  "472": {
+    "eri_kizuna_003a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Eri grows stronger.\nEri will now gain more experience when she is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 242
+    }
+  },
+  "473": {
+    "eri_kizuna_003b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kasuga feels his bond with Eri grows stronger.\nEri will now gain more experience when she is not in the active party.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 192
+    }
+  },
+  "474": {
+    "eri_kizuna_004a": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Eri can now use the skill Tag Team : Twin Fists.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 193
+    }
+  },
+  "475": {
+    "eri_kizuna_004b": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Eri can now use the skill Tag Team : Twin Fists.\nEri can now change to the Night Queen job.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 194
+    }
+  },
+  "476": {
+    "company_information_004": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Eri Kamataki can now be hired in Management.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 185
+    }
+  },
+  "477": {
+    "system_btl_dgn00": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Yokohama Underground Dungeon unlocked. You can access it through the manhole you used to escape from the Yokohama Liumang. Exploring this dungeon will not only make you stronger, but you might even find rare materials and items.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 195
+    }
+  },
+  "478": {
+    "system_btl_dgn01": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Kamurocho Underground Dungeon unlocked. You can access it through the manhole at Theater Alley where you infiltrated the former Heian Tower. Exploring this dungeon will not only make you stronger, but you might even find rare materials and items.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 253
+    }
+  },
+  "479": {
+    "ginnokagi": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Obtained Silver Safe Skeleton Key. This key will allow you to open all silver safes scattered throughout the city.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 254
+    }
+  },
+  "480": {
+    "system_dgn_y999_999_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Use the ladders you find inside to return to the ground floor. Be careful not to push yourself too far ahead.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 255
+    }
+  },
+  "481": {
+    "company_information_005": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Ririka can now be hired in Management.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 256
+    }
+  },
+  "482": {
+    "company_information_006": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Sumire Sawa can now be hired in Management.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 257
+    }
+  },
+  "483": {
+    "company_information_007": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Iroha Yanagi can now be hired in Management.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 258
+    }
+  },
+  "484": {
+    "company_information_008": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Manae Miyakoshi can now be hired in Management.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 259
+    }
+  },
+  "485": {
+    "nicks_mission_failed_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Fined 100,000 yen for not meeting Nick Ogata's condition in time.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 260
+    }
+  },
+  "486": {
+    "nicks_mission_failed_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Fined 500,000 yen for not meeting Nick Ogata's condition in time.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 188
+    }
+  },
+  "487": {
+    "nicks_mission_failed_003": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Fined 1,000,000 yen for not meeting Nick Ogata's condition in time.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 237
+    }
+  },
+  "488": {
+    "eri_kizuna": {
+      "is_wnd_size_large": 1,
+      "msg_system": "Unlike the rest of your party members, Eri's bond level only increases as you grow your business. Increasing her bond has many benefits, such as giving her access to new jobs and skills. Keep your business skills sharp to deepen your bond with Eri!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 238
+    }
+  },
+  "489": {
+    "lost_item": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Your money has been sent to the convenience store ATM, and your items have been sent to the Item Box.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 189
+    }
+  },
+  "490": {
+    "nanba_kizuna_010": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Progress through the main story to deepen your bond with Nanba.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 190
+    }
+  },
+  "491": {
+    "system_dgn_adv99_k100_010_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "True Final Millennium Tower\n\nRemember the game's most difficult dungeon? Well that was a joke. The True Final Millennium Tower is this game's real challenge. Badasses only.\nRec. Level: 99\nRec. Job Rank: 90",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 191
+    }
+  },
+  "492": {
+    "system_dgn_adv99_k100_020_001": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Only a true hero could conquer the True Final Millennium Tower.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 269
+    }
+  },
+  "493": {
+    "system_dgn_adv99_k100_020_002": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Congratulations! You've earned our respect and admiration!",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 270
+    }
+  },
+  "494": {
+    "system_dgn_adv99_k100_020_003": {
+      "is_wnd_size_large": 0,
+      "msg_system": "Obtained Legendary Hero outfit.",
+      "input/game_state": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 279
+    }
+  }
+}

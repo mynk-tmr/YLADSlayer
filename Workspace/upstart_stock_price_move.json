@@ -1,0 +1,536 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 45,
+  "COLUMN_COUNT": 6,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 3606,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "move_param": "1",
+    "profit": "1",
+    "rating": "1",
+    "is_profit": "1",
+    "rank": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "move_param": 3,
+    "profit": 10,
+    "rating": 7,
+    "is_profit": 6,
+    "rank": 0
+  },
+  "COLUMN_INDICES": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    0
+  ],
+  "0": {
+    "": {
+      "move_param": 0,
+      "profit": 0,
+      "rating": 0.0,
+      "is_profit": 0,
+      "rank": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "sales_aurplus": {
+      "move_param": 0,
+      "profit": 0,
+      "rating": 0.0,
+      "is_profit": 0,
+      "rank": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "sales_deficit": {
+      "move_param": 0,
+      "profit": 0,
+      "rating": 0.0,
+      "is_profit": 0,
+      "rank": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "meeting_win": {
+      "move_param": 0,
+      "profit": 0,
+      "rating": 0.0,
+      "is_profit": 0,
+      "rank": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "meeting_lose": {
+      "move_param": 0,
+      "profit": 0,
+      "rating": 0.0,
+      "is_profit": 0,
+      "rank": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "sales_keep": {
+      "move_param": 0,
+      "profit": 0,
+      "rating": 0.0,
+      "is_profit": 0,
+      "rank": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "sales_010": {
+      "move_param": -5,
+      "profit": -10000000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "sales_020": {
+      "move_param": -4,
+      "profit": -1000000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "sales_030": {
+      "move_param": -3,
+      "profit": -500000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "sales_040": {
+      "move_param": -2,
+      "profit": -100000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "sales_050": {
+      "move_param": -1,
+      "profit": -10000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "sales_060": {
+      "move_param": 0,
+      "profit": 0,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "sales_070": {
+      "move_param": 4,
+      "profit": 100000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "sales_080": {
+      "move_param": 8,
+      "profit": 500000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "sales_090": {
+      "move_param": 12,
+      "profit": 1000000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "sales_100": {
+      "move_param": 16,
+      "profit": 5000000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "sales_110": {
+      "move_param": 20,
+      "profit": 10000000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "battle_1010": {
+      "move_param": 130,
+      "profit": 0,
+      "rating": 100.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "18": {
+    "battle_1020": {
+      "move_param": 100,
+      "profit": 0,
+      "rating": 90.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "19": {
+    "battle_1030": {
+      "move_param": 80,
+      "profit": 0,
+      "rating": 80.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "20": {
+    "battle_1040": {
+      "move_param": 60,
+      "profit": 0,
+      "rating": 70.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "21": {
+    "battle_1050": {
+      "move_param": 40,
+      "profit": 0,
+      "rating": 60.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "22": {
+    "battle_1060": {
+      "move_param": 30,
+      "profit": 0,
+      "rating": 55.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "23": {
+    "battle_1070": {
+      "move_param": 20,
+      "profit": 0,
+      "rating": 50.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "24": {
+    "battle_1080": {
+      "move_param": -3,
+      "profit": 0,
+      "rating": 45.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "25": {
+    "battle_1090": {
+      "move_param": -5,
+      "profit": 0,
+      "rating": 40.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "26": {
+    "battle_1100": {
+      "move_param": -8,
+      "profit": 0,
+      "rating": 30.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "27": {
+    "battle_1110": {
+      "move_param": -10,
+      "profit": 0,
+      "rating": 20.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "28": {
+    "battle_1120": {
+      "move_param": -12,
+      "profit": 0,
+      "rating": 10.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "29": {
+    "battle_1130": {
+      "move_param": -15,
+      "profit": 0,
+      "rating": 0.0,
+      "is_profit": 0,
+      "rank": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "30": {
+    "battle_2010": {
+      "move_param": 130,
+      "profit": 0,
+      "rating": 100.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "31": {
+    "battle_2020": {
+      "move_param": 100,
+      "profit": 0,
+      "rating": 90.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "32": {
+    "battle_2030": {
+      "move_param": 80,
+      "profit": 0,
+      "rating": 80.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "33": {
+    "battle_2040": {
+      "move_param": 60,
+      "profit": 0,
+      "rating": 70.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "34": {
+    "battle_2050": {
+      "move_param": 40,
+      "profit": 0,
+      "rating": 60.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "35": {
+    "battle_2060": {
+      "move_param": 30,
+      "profit": 0,
+      "rating": 55.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "36": {
+    "battle_2070": {
+      "move_param": 20,
+      "profit": 0,
+      "rating": 50.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "37": {
+    "battle_2080": {
+      "move_param": -3,
+      "profit": 0,
+      "rating": 45.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "38": {
+    "battle_2090": {
+      "move_param": -5,
+      "profit": 0,
+      "rating": 40.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "39": {
+    "battle_2100": {
+      "move_param": -8,
+      "profit": 0,
+      "rating": 30.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "40": {
+    "battle_2110": {
+      "move_param": -10,
+      "profit": 0,
+      "rating": 20.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "41": {
+    "battle_2120": {
+      "move_param": -12,
+      "profit": 0,
+      "rating": 10.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "42": {
+    "battle_2130": {
+      "move_param": -15,
+      "profit": 0,
+      "rating": 0.0,
+      "is_profit": 0,
+      "rank": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "43": {
+    "sales_120": {
+      "move_param": 24,
+      "profit": 50000000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "44": {
+    "sales_130": {
+      "move_param": 21,
+      "profit": 100000000,
+      "rating": 0.0,
+      "is_profit": 1,
+      "rank": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  }
+}
