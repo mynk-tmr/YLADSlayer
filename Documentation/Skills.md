@@ -4,7 +4,7 @@
 Chances :
 low  -> 25-30% success rate
 medium  -> 50-60% 
-high -> high
+high -> 75%
 
 Skills : 
 Bold -> they are retained / transferrable.
