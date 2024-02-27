@@ -2,6 +2,12 @@
 
 A mod that makes the game significantly challenging and balanced, with tougher enemies, reworked RPG elements and changed battle flow.
 
+## INSTALLATION
+
+- Install Ryu Mod Manager (RMM) from Nexusmods
+- Copy the YLADSlayer folder into Mods folder created by RMM
+- Be sure to enable the Mod (by running RyuModManagerGUI.exe and selecting it)
+
 ## BATTLE SYSTEM CHANGES
 
 - New Skills and reworking of Old Skills to make Jobs balanced and role specific.
